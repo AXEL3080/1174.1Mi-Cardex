@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 📱 Mi Cardex - Android App
+  #  Mi Cardex - Android App
   
   ![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
@@ -93,9 +93,13 @@ Deja que Gradle descargue las dependencias.
 Selecciona un emulador o dispositivo físico con Android 8.0 (API 26) o superior y presiona Run (Shift + F10).
 
 👤 Autor
-Axel Gerardo Ramos <div class="tenor-gif-embed" data-postid="3331539172897907390" data-share-method="host" data-aspect-ratio="0.919679" data-width="100%"><a href="https://tenor.com/view/scuba-scuba-cat-scuba-dance-cat-dancing-cat-gif-3331539172897907390">Scuba Scuba Cat GIF</a>from <a href="https://tenor.com/search/scuba-gifs">Scuba GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+Axel Gerardo Ramos 
 
 Ingeniería en Sistemas Computacionales
 
 Tecnológico Nacional de México - Campus Tuxtla Gutiérrez
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW03Nms2OWJrcDh5eTBzcjZsYjYwOTE5bXcxZG5pbmsxMm1xYjgyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaZfaMveb2WljrLOuJ/giphy.gif" width="350" alt="Gato buzo bailando">
+</div>
 
