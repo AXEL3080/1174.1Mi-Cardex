@@ -99,7 +99,5 @@ Ingeniería en Sistemas Computacionales
 
 Tecnológico Nacional de México - Campus Tuxtla Gutiérrez
 
-<div align="center">
-  <img src="SpinStar.gif" width="300px" alt="Twirling Star GIF">
-</div>
+<div class="tenor-gif-embed" data-postid="3331539172897907390" data-share-method="host" data-aspect-ratio="0.919679" data-width="100%"><a href="https://tenor.com/view/scuba-scuba-cat-scuba-dance-cat-dancing-cat-gif-3331539172897907390">Scuba Scuba Cat GIF</a>from <a href="https://tenor.com/search/scuba-gifs">Scuba GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
