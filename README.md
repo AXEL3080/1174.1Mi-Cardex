@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+## Tech Stack & Herramientas
 
 <div align="left">
 
@@ -48,30 +48,19 @@
 
 El módulo de base de datos implementa las anotaciones y bloques estructurales fundamentales de Room:
 
-+-------------------------------------------------------+
-|                   CardexScreen (UI)                   |
-+-------------------------------------------------------+
-│ (Observa StateFlow)
-▼
-+-------------------------------------------------------+
-|                   MateriaViewModel                    |
-+-------------------------------------------------------+
-│ (Llama métodos)
-▼
-+-------------------------------------------------------+
-|                   MateriaRepository                   |
-+-------------------------------------------------------+
-│ (Consulta)
-▼
-+-------------------------------------------------------+
-|                 MateriaDao (@Dao)                     |
-+-------------------------------------------------------+
-│ (Persiste)
-▼
-+-------------------------------------------------------+
-|             AppDatabase & Materia (@Entity)           |
-+-------------------------------------------------------+
+```mermaid
+graph TD
+    UI[📱 CardexScreen - UI] -->|Observa StateFlow| VM[🧠 MateriaViewModel]
+    VM -->|Llama métodos| REPO[📦 MateriaRepository]
+    REPO -->|Consulta / Actualiza| DAO[🗡️ MateriaDao - @Dao]
+    DAO -->|Persiste datos| DB[(🗄️ AppDatabase & Materia - @Entity)]
 
+    style UI fill:#1E88E5,stroke:#fff,stroke-width:2px,color:#fff
+    style VM fill:#43A047,stroke:#fff,stroke-width:2px,color:#fff
+    style REPO fill:#FB8C00,stroke:#fff,stroke-width:2px,color:#fff
+    style DAO fill:#8E24AA,stroke:#fff,stroke-width:2px,color:#fff
+    style DB fill:#00ACC1,stroke:#fff,stroke-width:2px,color:#fff
+```
 
 <details>
 <summary><b>Ver detalle de los componentes de Room</b></summary>
