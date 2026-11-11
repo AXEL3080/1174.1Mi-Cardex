@@ -93,12 +93,9 @@ Deja que Gradle descargue las dependencias.
 Selecciona un emulador o dispositivo físico con Android 8.0 (API 26) o superior y presiona Run (Shift + F10).
 
 👤 Autor
-Axel Gerardo Ramos
+Axel Gerardo Ramos <div class="tenor-gif-embed" data-postid="3331539172897907390" data-share-method="host" data-aspect-ratio="0.919679" data-width="100%"><a href="https://tenor.com/view/scuba-scuba-cat-scuba-dance-cat-dancing-cat-gif-3331539172897907390">Scuba Scuba Cat GIF</a>from <a href="https://tenor.com/search/scuba-gifs">Scuba GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Ingeniería en Sistemas Computacionales
 
 Tecnológico Nacional de México - Campus Tuxtla Gutiérrez
 
-<div align="center">
-  <img src="https://c.tenor.com/iC8rR53jXaS/tenor.gif" width="350" alt="GIF divertido">
-</div>
