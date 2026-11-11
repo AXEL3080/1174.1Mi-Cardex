@@ -98,6 +98,7 @@ Axel Gerardo Ramos
 Ingeniería en Sistemas Computacionales
 
 Tecnológico Nacional de México - Campus Tuxtla Gutiérrez
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXQwZ3Uxd3hiY2ZwcW4za2ZoNnA5d3c2OXFybzh3Z3lmMHN3emNoMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/puiUgSNbuLhbj0irE0/giphy.gif" width="350px" alt="GIF divertido">
+  <img src="https://media.giphy.com/media/puiUgSNbuLhbj0irE0/giphy.gif" width="300" alt="Divertido GIF">
 </div>
