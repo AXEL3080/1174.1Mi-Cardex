@@ -100,5 +100,5 @@ Ingeniería en Sistemas Computacionales
 Tecnológico Nacional de México - Campus Tuxtla Gutiérrez
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/xaZfaMveb2WljrLOuJ/giphy.gif" width="350" alt="GIF divertido">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW03Nms2OWJrcDh5eTBzcjZsYjYwOTE5bXcxZG5pbmsxMm1xYjgyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaZfaMveb2WljrLOuJ/giphy.gif" width="350" alt="GIF divertido">
 </div>
