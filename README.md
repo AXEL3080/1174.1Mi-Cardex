@@ -99,5 +99,6 @@ Ingeniería en Sistemas Computacionales
 
 Tecnológico Nacional de México - Campus Tuxtla Gutiérrez
 
-<div class="tenor-gif-embed" data-postid="7523542997650649169" data-share-method="host" data-aspect-ratio="1.04622" data-width="100%"><a href="https://tenor.com/view/cat-cat-dance-kitten-kitten-dance-vibe-gif-7523542997650649169">Cat Cat Dance GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="480" height="476" alt="Cat Sigma GIF" src="https://github.com/user-attachments/assets/bbcaf4a2-5822-4213-9be7-009d6df17e4f" />
+
 
